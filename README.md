@@ -8,8 +8,7 @@
 psicoder85/psicoder85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![trophy](https://github-profile-trophy.vercel.app/?username=psicoder85&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/psicoder85/github-profile-trophy)
-  
+
 # About Me
 
 Hello! I'm PSiCoder85, an experienced Information Security Specialist and Technical Writer with a strong background in cybersecurity. I have a passion for safeguarding information, creating comprehensive and clear technical documentation, and developing robust security solutions through various projects.
@@ -112,7 +111,9 @@ Join me on X or LinkedIn, where I share insights, analysis, Personal opinions, a
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psicoder85&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
-
+----
+[![trophy](https://github-profile-trophy.vercel.app/?username=psicoder85&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/psicoder85/github-profile-trophy)
+  
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=psicoder85&style=for-the-badge&color=blue" alt=""/>
